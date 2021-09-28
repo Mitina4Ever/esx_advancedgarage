@@ -1,8 +1,6 @@
 # About esx_advancedgarage:
 Advanced Garage System for ESX Legacy - Made by Human Tree92 edited (forked) by Squizer#3020 & Ice Cube 🧊#7557
 
-# From update of debug and other shit.. this script didn't be tested on live server.. 
-
 # Creating Issues
 * Do NOT Delete the Pre-Written Text in the issue.
 * Failue to due any of the above will result in Topic being deleted & you being Blocked. The Pre-Written text helps me with getting to the Bottom of the Issues & i hate explaining things over & over.
