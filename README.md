@@ -1,5 +1,5 @@
 # About esx_advancedgarage:
-Advanced Garage System for ESX Legacy - Made by Human Tree92 edited (forked) by Squizer#3020 & Ice Cube 🧊#7557
+Advanced Garage System for ESX, V1 fianl (may work on 1.1 idk) - Made by Human Tree92 edited (forked) by Squizer#3020 & Ice Cube 🧊#7557
 
 # Creating Issues
 * Do NOT Delete the Pre-Written Text in the issue.
